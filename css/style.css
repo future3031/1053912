@@ -1,4 +1,4 @@
-﻿*{
+*{
   /*border: solid 1px;*/
   font-family: 微軟正黑體;
     position: relative;
@@ -74,12 +74,14 @@ body{
   
 
 .title{
+  font-family: Arial Black;
   text-align: center;
   font-size: 20px;
   font-weight: 500;
   color:  rgba( 0, 0, 0, 0.5);
 }
 .mark{
+  font-family: Arial Black;
   font-size: 400px;
   position: absolute;
   width: 100%;
